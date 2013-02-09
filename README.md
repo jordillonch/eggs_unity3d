@@ -8,7 +8,7 @@ This is a test to show how connect Unity3D to eggs and have a nice client to pla
 
 Video:
 
-[![eggs with unity3d](https://i1.ytimg.com/vi/0ll2DIidSXY/mqdefault.jpg "eggs with unity3d")](https://www.youtube.com/watch?v=0ll2DIidSXY)
+[![eggs with unity3d](https://i2.ytimg.com/vi/AOjHIsL-8ZA/mqdefault.jpg?v=51142d8c "eggs with unity3d")](http://youtu.be/AOjHIsL-8ZA)
 
 
 ## Author
